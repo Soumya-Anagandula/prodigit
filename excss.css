@@ -1,0 +1,22 @@
+.navbar-brand{
+    padding: 100px;
+    
+}
+.nav-item{
+    padding: 20px;
+}
+.c1{
+    text-align: center;
+    margin-top: 20px;
+}
+.col img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 60px;
+    width: 120px;
+}
+.c2{
+    margin-top: 40px;
+    text-align: center;
+
+}

@@ -1,0 +1,38 @@
+.navbar-brand{
+    padding: 100px;
+    
+}
+.nav-item{
+    padding: 20px;
+}
+/* p {
+    text-align: left;
+    font-size: 50px;
+    color: black;
+    margin-left: 20px;
+  } */
+.container{
+    background: linear-gradient(to right top,#8debf2,#a6c183);
+    height:80px;
+}
+.container2{
+    height: 400px;
+    
+}
+.c2 h1{
+    font-size: 60px;
+    padding:40px ;
+}
+.col{
+   
+    display: flex;
+}
+.row{
+
+    padding: 8px;
+    padding-left: 100px;
+}
+
+.carousel-item > img{
+ opacity: 80%;
+}

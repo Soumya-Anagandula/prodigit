@@ -1,0 +1,15 @@
+.navbar-brand{
+    padding: 100px;
+    
+}
+.nav-item{
+    padding: 20px;
+}
+.c3{
+    margin: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+.c3 button{
+    background: linear-gradient(to right top, #8debf2,#a6c183);
+}

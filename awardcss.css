@@ -1,0 +1,27 @@
+.navbar-brand{
+    padding: 100px;
+    
+}
+.nav-item{
+    padding: 20px;
+}
+.b1{
+    text-align: center;
+    margin-top: 2px;
+}
+.sb1 p{
+    font-size: 13px;
+    margin: -2px;
+    padding:  -10px;
+}
+.sb2{
+    margin-top: 40px;
+    margin-left: 320px;
+    border-radius: 200px 200px 200px 0px;
+    background: linear-gradient(to right top,#8debf2,#a6c183);
+    height: 400px;
+    width: 1000px;
+    padding-top: 120px;
+    padding-left: 100px;
+    text-align: left;
+}

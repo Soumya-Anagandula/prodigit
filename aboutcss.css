@@ -1,0 +1,27 @@
+.navbar-brand{
+    padding: 100px;
+    
+}
+.nav-item{
+    padding: 20px;
+}
+
+.col{
+    padding: 40px;
+}
+.col h6{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.col3{
+    padding: 7px;
+}
+.col2{
+    margin-left: 10px;
+}
+.container2{
+    margin-left: 10px;
+    margin-top: 30px;
+    padding: 3pxs;
+
+}
